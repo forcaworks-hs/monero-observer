@@ -1,6 +1,6 @@
 # MoneroMesh
 ## About
-Observer to monitor/check pool and monero blockchain statistics
+**MoneroMesh** is a website made with the purpose of monitoring our own P2Pool & monerod instances, and also for those users who wish to mine in a decentralized pool, featuring 0% fees and a fast response time.
 
 ## Version
 This project is currently at version ``__1.0.0__``
